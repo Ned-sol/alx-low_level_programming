@@ -1,2 +1,2 @@
 #!/bin/bash
-the command is gcc saved into $CFILE. The command is -E -o saved in c
+gcc $CFILE -E -o c
